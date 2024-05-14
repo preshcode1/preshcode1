@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preshcode1
 - 👀 I’m interested in business
 - 💞️ I’m looking to collaborate on full stack development and Social media management
-- 📫 How to reach me on instagram: @preciousdev
+- 📫 How to reach me on instagram: @preciousdev1
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
